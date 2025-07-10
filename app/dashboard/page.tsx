@@ -15,7 +15,7 @@ import {
   ShieldCheck,
   UserCircle,
   Download,
-  Edit,
+  
 } from 'lucide-react';
 import { mockAccount, mockTransactions } from '@/lib/data';
 // import {html2pdf} from @types/'html2pdf.js';
