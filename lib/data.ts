@@ -22,7 +22,7 @@ export const mockAccount: Account = {
   customerName: "Ola Electric Technologies Pvt Ltd",
   accountType: "Priority Account",
   accountNumber: "1234567890123456",
-  balance: 2500000.00,
+  balance: 2500000000.00,
   ifscCode: "HDFC0001234",
   branchName: "Bangalore - Electronic City",
   customerId: "CUST001"
