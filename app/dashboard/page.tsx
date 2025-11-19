@@ -225,9 +225,9 @@ export default function Dashboard() {
         <section className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <div className="bg-white shadow-md rounded-xl p-6">
             <h4 className="text-md font-semibold text-[#004080] mb-2">Account Info</h4>
-            <p className="text-sm text-gray-600">IFSC Code: HDFC0001234</p>
-            <p className="text-sm text-gray-600">Branch: Bengaluru MG Road</p>
-            <p className="text-sm text-gray-600">Email: user@example.com</p>
+            <p className="text-sm text-gray-600">IFSC Code: HDFC0001289</p>
+            <p className="text-sm text-gray-600">Branch: Dharwad NTTF</p>
+            <p className="text-sm text-gray-600">Email:talawai.channappa@gmail.com</p>
           </div>
 
           <div className="bg-white shadow-md rounded-xl p-6">
