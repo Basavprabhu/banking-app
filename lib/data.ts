@@ -23,7 +23,7 @@ export const mockAccount: Account = {
   accountType: "Priority Account",
   accountNumber: "876790240091",
   balance: 1071500000.00,
-  ifscCode: "HDFC0001234",
+  ifscCode: "HDFC0001289",
   branchName: "Dharwad - NTTF Branch",
   customerId: "CUST091675"
 };
