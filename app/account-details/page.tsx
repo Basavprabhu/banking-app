@@ -139,7 +139,7 @@ export default function AccountDetails() {
               </div>
               <div>
                 <p className="text-sm text-gray-600">Registered Mobile</p>
-                <p className="font-semibold text-gray-800">+91 9876543210</p>
+                <p className="font-semibold text-gray-800">+91 9632222199</p>
               </div>
             </div>
           </div>
